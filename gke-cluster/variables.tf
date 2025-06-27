@@ -14,7 +14,7 @@ variable "location" {
 
 variable "cluster_name" {
   type    = string
-  default = "my-gke-cluster"
+  default = "jag-gke-cluster"
 }
 
 variable "initial_node_count" {
